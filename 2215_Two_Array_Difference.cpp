@@ -2,11 +2,7 @@
 // date: 2023-05-03
 // status: Accepted | 31ms runtime (beats 97%), 26.2mb (beats 99%)
 
-#include <algorithm>
 #include <bits/stdc++.h>
-#include <iterator>
-#include <unordered_map>
-#include <vector>
 using namespace std;
 
 #define sz(x) (int) (x).size()
